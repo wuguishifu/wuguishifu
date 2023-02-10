@@ -28,4 +28,4 @@
 [![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&color=646CFF&logoColor=white)](https://vitejs.dev/)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind%20css&color=06b6d4&logoColor=white)](https://tailwindcss.com/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=octave&color=0790c0&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![AWS S3](https://img.shields.io/badge/Amazon%20S3?style=for-the-badge&logo=amazon%20s3&color=569a31&logoColor=white)](https://aws.amazon.com/s3/)
+[![AWS S3](https://img.shields.io/badge/Amazon%20S3-000000?style=for-the-badge&logo=amazon%20s3&color=569a31&logoColor=white)](https://aws.amazon.com/s3/)
