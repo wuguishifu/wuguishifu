@@ -5,6 +5,7 @@
 - 📫 You can reach me on my website, https://www.bo-bramer.com/contact, or at bo@chemistrytalk.org.
 
 ### Tech Stack
+<a href="https://www.java.com/en" target="_blank">![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</a>
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&color=3776AB&logo=Python&logoColor=FCFC1A)](https://www.python.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&color=47A248&logo=MongoDB&logoColor=FFFFFF)](https://www.mongodb.com/)
