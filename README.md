@@ -25,3 +25,4 @@
 [![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&color=5586A4&logoColor=white)](https://www.opengl.org/)
 [![AndroidStudio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=android%20studio&color=3DDC84&logoColor=white)](https://developer.android.com/studio?gclid=CjwKCAiA0JKfBhBIEiwAPhZXDznAGAZ9iVtre-kk5A4p3RWqyXJHo9fvkMQlynZseh0JbT82Yfr9rRoC5OYQAvD_BwE&gclsrc=aw.ds)
 [![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=node%20studio&color=339933&logoColor=white)](https://expressjs.com/)
+[![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&color=646CFF&logoColor=white)](https://vitejs.dev/)
