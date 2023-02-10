@@ -33,7 +33,7 @@
 [![Cocoapods](https://img.shields.io/badge/Cocoapods-000000?style=for-the-badge&logo=cocoapods&color=ee3322&logoColor=white)](https://cocoapods.org/)
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&color=f24e11&logoColor=white)](https://www.figma.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&color=7f52ff&logoColor=white)](https://kotlinlang.org/)
-[![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&color=FCC624&logoColor=white)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&color=FCC624&logoColor=black)](https://www.linux.org/)
 [![PM2](https://img.shields.io/badge/pm2-000000?style=for-the-badge&logo=pm2&color=2b037a&logoColor=white)](https://pm2.keymetrics.io/)
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-000000?style=for-the-badge&logo=rabbitmq&color=ff6600&logoColor=white)](https://www.rabbitmq.com/)
 [![SpringBoot](https://img.shields.io/badge/spring%20boot-000000?style=for-the-badge&logo=spring%20boot&color=6db33f&logoColor=white)](https://spring.io/)
