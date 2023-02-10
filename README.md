@@ -27,3 +27,4 @@
 [![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=node%20studio&color=339933&logoColor=white)](https://expressjs.com/)
 [![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&color=646CFF&logoColor=white)](https://vitejs.dev/)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind%20css&color=06b6d4&logoColor=white)](https://tailwindcss.com/)
+[![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=octave&color=0790c0&logoColor=white)](https://www.mathworks.com/products/matlab.html)
