@@ -19,6 +19,6 @@
 [![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&color=E892C5&logo=Git&logoColor=000000)](https://git-scm.com/)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logoColor=white&logo=ubuntu)](https://ubuntu.com/)
-[![ReactNative](https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&color=61dafb&logoColor=black)](https://reactnative.dev/)
+[![ReactNative](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&color=61dafb&logoColor=black)](https://reactnative.dev/)
 [![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=matlab&color=c04c0b&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![LaTeX](https://img.shields.io/badge/LATEX-000000?style=for-the-badge&logo=latex&color=008181&logoColor=white)](https://www.latex-project.org/)
