@@ -17,7 +17,7 @@
 [![Kubernetes](https://img.shields.io/badge/kubernetes-000000?style=for-the-badge&logo=kubernetes&color=326ce5&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&color=000000&logo=flask&logoColor=FCFC1A)](https://flask.palletsprojects.com/en/2.2.x/)
-[![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&color=E892C5&logo=Git&logoColor=000000&color=F05032)](https://git-scm.com/)
+[![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&color=E892C5&logo=Git&logoColor=white&color=F05032)](https://git-scm.com/)
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&color=A22846)](https://www.raspberrypi.org/)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-e95420?style=for-the-badge&logoColor=white&logo=ubuntu&color=E95420)](https://ubuntu.com/)
 [![ReactNative](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&color=61DAFB&logoColor=black)](https://reactnative.dev/)
