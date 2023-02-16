@@ -10,6 +10,7 @@
 [![Cocoapods](https://img.shields.io/badge/Cocoapods-000000?style=for-the-badge&logo=cocoapods&color=ee3322&logoColor=white)](https://cocoapods.org/)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
+[![Eureka](http://img.shields.io/badge/Eureka-000000?style=for-the-badge&logo=netflix&color=E50914&logoColor=white)](https://github.com/Netflix/eureka)
 [![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&color=339933&logoColor=white)](https://expressjs.com/)
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&color=f24e11&logoColor=white)](https://www.figma.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&color=000000&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
