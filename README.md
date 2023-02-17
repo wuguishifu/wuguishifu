@@ -26,6 +26,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=octave&color=0790c0&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![maven](https://img.shields.io/badge/maven-000000?style=for-the-badge&logo=apache%20maven&color=c71a36&logoColor=white)](https://maven.apache.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&color=47A248&logo=MongoDB&logoColor=FFFFFF)](https://www.mongodb.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&color=009639&logo=nginx&logoColor=FFFFFF)](https://www.nginx.com/)
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&color=339933)](https://nodejs.org/en/)
 [![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&color=5586A4&logoColor=white)](https://www.opengl.org/)
 [![PM2](https://img.shields.io/badge/pm2-000000?style=for-the-badge&logo=pm2&color=2b037a&logoColor=white)](https://pm2.keymetrics.io/)
