@@ -1,7 +1,7 @@
 ### About Me
 - 👋 Hi, I’m Bo, a.k.a. @wuguishifu
-- 👀 I’m interested in chemistry, chemical engineering, and computer science.
-- 💞️ I’m looking to build software and APIs for other SWE to use.
+- 👀 I’m interested in building applications for millions of people to use.
+- 💞️ Currently a fullstack software engineer @ iBored.
 - 📫 You can reach me on my website, https://www.bo-bramer.com/contact, or at bo@chemistrytalk.org.
 
 ### Tech Stack
