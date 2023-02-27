@@ -35,6 +35,7 @@
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&color=A22846)](https://www.raspberrypi.org/)
 [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&color=61DAFB&logoColor=black)](https://reactjs.org/)
 [![ReactNative](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&color=61DAFB&logoColor=black)](https://reactnative.dev/)
+[![socket.io](https://img.shields.io/badge/socket.io-000000?style=for-the-badge&logo=socket.io&color=#010101&logoColor=white)](https://socket.io/)
 [![SpringBoot](https://img.shields.io/badge/spring%20boot-000000?style=for-the-badge&logo=spring%20boot&color=6db33f&logoColor=white)](https://spring.io/)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind%20css&color=06b6d4&logoColor=white)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
