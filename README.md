@@ -16,6 +16,7 @@
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&color=000000&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&color=E892C5&logo=Git&logoColor=white&color=F05032)](https://git-scm.com/)
 [![gradle](https://img.shields.io/badge/gradle-000000?style=for-the-badge&logo=gradle&color=02303A&logoColor=white)](https://gradle.org/)
+[![grpc](https://img.shields.io/badge/grpc-000000?style=for-the-badge&logo=tRPC&color=2596BE&logoColor=white)](https://grpc.io/)
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 <a href="https://www.java.com/en" target="_blank">![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</a>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&color=F7DF1E&logo=JavaScript&logoColor=222020)](https://www.javascript.com/)
