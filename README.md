@@ -1,6 +1,6 @@
 ### About Me
 - 👋 Hi, I’m Bo, a.k.a. @wuguishifu
-- 👀 I’m interested in building applications for people to enjoy.
+- 👀 I’m interested in building scalable applications for huge audiences.
 - 💞️ Currently a fullstack software engineer @ iBored.
 - 📫 You can reach me on my website, https://www.bo-bramer.com/contact, or at bo@chemistrytalk.org.
 
