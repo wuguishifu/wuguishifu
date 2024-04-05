@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Bo, a.k.a. @wuguishifu
 - 👀 I’m interested in building scalable applications for huge audiences.
 - 💞️ Currently a senior software engineer @ Panyon.
-- 📫 You can reach me on my website, <https://bramer.dev>, or at (bramer.bo@gmail.com)[mailto:bramer.bo+website@gmail.com].
+- 📫 You can reach me on my website, <https://bramer.dev>, or at [bramer.bo@gmail.com](mailto:bramer.bo+website@gmail.com).
 
 ### Tech Stack
 [![AndroidStudio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=android%20studio&color=3DDC84&logoColor=white)](https://developer.android.com/studio?gclid=CjwKCAiA0JKfBhBIEiwAPhZXDznAGAZ9iVtre-kk5A4p3RWqyXJHo9fvkMQlynZseh0JbT82Yfr9rRoC5OYQAvD_BwE&gclsrc=aw.ds)
