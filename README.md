@@ -1,7 +1,6 @@
 ### About Me
 - 👋 Hi, I’m Bo, a.k.a. @wuguishifu
-- 👀 I’m interested in building scalable applications for huge audiences.
-- 💞️ Currently a senior software engineer @ Panyon.
+- 💞️ Currently a software engineer @ Inkitt.
 - 📫 You can reach me on my website, <https://bramer.dev>, or at [bramer.bo@gmail.com](mailto:bramer.bo+website@gmail.com).
 
 ### Tech Stack
